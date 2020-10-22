@@ -1,7 +1,7 @@
 /*
- * Programmer: Carter
+ * Programmer: Carter Van Bommel
  * Date: October 21, 2020
- * Purpose: To
+ * Purpose: To test stuff using arrays
  */
 
 import java.util.Scanner;
