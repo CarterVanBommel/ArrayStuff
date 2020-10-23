@@ -60,7 +60,7 @@ public class ArrayStuff {
         
         // Replace the first planet with the planet at index 2, but with all
         // upper case letters.
-        planets[0] = planets[2].toUpperCase();
+        planets[0] = (planets[2]).toUpperCase();
 
         
         // Print all of the elements of "planets" in reverse order.
